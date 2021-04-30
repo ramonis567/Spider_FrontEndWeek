@@ -7,4 +7,4 @@
 
 #### Possíveis features 
 - Nunjucks
-- Páginas extras (Home, Story, Wallpapers, #BeYourself, Ver Teaser)
+- Páginas extras (Home, Story, Wallpapers, #BeYourself, Ver Teaser) 
